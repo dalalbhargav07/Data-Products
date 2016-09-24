@@ -1,5 +1,10 @@
-# Data-Products
+# Developing Data Products - Course Project - Part 1
 
-link for shiny app is : https://sieber.shinyapps.io/CoverType/
+This repository has the ui.R and server.R files for the first part of the Developing Data Products Course Project. The peer assessed assignment has two parts. First, we need to create a Shiny application and deploy it on Rstudio's servers. Second, we should use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about the application.
 
-This app was created in R using Shiny.  The data comes from the Kaggle Forest Cover Type Prediction competition found here: http://www.kaggle.com/c/forest-cover-type-prediction/data . There are three tabs on this app.  The Instruction tab which explains how the app works.  The plot tab which allows you to explore the data with different features.  The prediction tab which allows to change different parameters and it will output a prediction of what type of forest cover is at that location.  The prediction model uses a gradient boosted trees method.  This method has a 75.4% accuracy on out of sample data
+The app developed for the first part of the assignment is avalilable at: https://dalalbhargav07.shinyapps.io/carzz/
+
+
+Files for the presentation are avalilable on the GitHub: https://github.com/dalalbhargav07/Data-Products
+
+Presentation : http://rpubs.com/dalalbhargav07/courseraproj-car
